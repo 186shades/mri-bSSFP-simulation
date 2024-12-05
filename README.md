@@ -1,6 +1,6 @@
 <div align="center">
 
-# <span>ECE 207A/BENG 280A Project 1 </span>
+# <span>ECE 207A/BENG 280A Project 2 </span>
 ## <span>Project 2 Proposal: Simulation of bSSFP pulse sequence with Radial and Stack-of-Stars k-space Sampling</span>
 
 </div>
