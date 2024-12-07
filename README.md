@@ -15,4 +15,4 @@ This project aims to simulate and evaluate the bSSFP sequence combined with radi
 ### <div align="center"><span style="color: #e67e22;">File Structure</span></div>
 ```
 --- Scripts/
---- Group_4_Project_2_Proposal.pdf.pdf
+--- Group_4_Project_2_Proposal.pdf
