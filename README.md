@@ -1,6 +1,6 @@
 <div align="center">
 
-# <span>ECE 207A/BENG 280A Project 2</span>
+# <span>ECE 207A/BENG 280A Project 2 Group 4</span>
 ## <span>Simulation of bSSFP pulse sequence with Stack-of-Stars k-space Sampling</span>
 
 </div>
@@ -15,4 +15,10 @@ This project aims to simulate and evaluate the bSSFP sequence combined with stac
 ### <div align="center"><span style="color: #e67e22;">File Structure</span></div>
 ```
 --- Scripts/
---- Group_4_Project_2_Proposal.pdf
+|   +-- bssfp_conceptual_simulations.ipynb
+|   +-- bssfp_sos_final.ipynb
+|   +-- gradient_plots.ipynb
+|   +-- radialSampling_visualization.ipynb
+|   +-- T2T1ratio.ipynb
+--- ECE207A_Project_2.pptx
+--- ECE207A_Project_2.pptx.pdf
