@@ -20,5 +20,6 @@ This project aims to simulate and evaluate the bSSFP sequence combined with stac
 |   +-- gradient_plots.ipynb
 |   +-- radialSampling_visualization.ipynb
 |   +-- T2T1ratio.ipynb
+--- Group_4_Project_2_Proposal.pdf
 --- ECE207A_Project_2.pptx
 --- ECE207A_Project_2.pptx.pdf
