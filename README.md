@@ -23,3 +23,7 @@ This project aims to simulate and evaluate the bSSFP sequence combined with stac
 --- Group_4_Project_2_Proposal.pdf
 --- ECE207A_Project_2.pptx
 --- ECE207A_Project_2.pptx.pdf
+```
+
+### Video Presentation
+[![](https://img.youtube.com/vi/7edK50ruFB8/0.jpg)](https://www.youtube.com/watch?v=7edK50ruFB8)
